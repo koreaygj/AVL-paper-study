@@ -11,18 +11,21 @@ Our members
 <table>
   <tr>
     <td align="center">
-      kael (Gyeongjin Yang)<br>
-      <a href="https://github.com/koreaygj">:octocat:</a>
+      <a href="https://github.com/koreaygj"><img src="https://github.com/koreaygj.png?size=100" width="100" height="100" alt="koreaygj"></a><br>
+      Gyeongjin Yang<br> <a href="https://github.com/koreaygj">:octocat:</a>
     </td>
     <td align="center">
+      <a href="https://github.com/JaGyeong1024"><img src="https://github.com/JaGyeong1024.png?size=100" width="100" height="100" alt="JaGyeong1024"></a><br>
       Jagyeong Gu<br>
       <a href="https://github.com/JaGyeong1024">:octocat:</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mini0909-web"><img src="https://github.com/mini0909-web.png?size=100" width="100" height="100" alt="mini0909-web"></a><br>
       Minyoung Seo<br>
       <a href="https://github.com/mini0909-web">:octocat:</a>
     </td>
     <td align="center">
+      <a href="https://github.com/namgyu021210"><img src="https://github.com/namgyu021210.png?size=100" width="100" height="100" alt="namgyu021210"></a><br>
       Namgyu Lee<br>
       <a href="https://github.com/namgyu021210">:octocat:</a>
     </td>
