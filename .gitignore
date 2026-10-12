@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Office temp files
+~$*
+.~lock.*#
+
+# Editor
+.vscode/
+.idea/
+*.swp
